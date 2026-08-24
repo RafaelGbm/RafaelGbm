@@ -1,8 +1,8 @@
+## Olá!!! Eu sou o Rafael Gaspar, Desenvolvedor Web Full-Stack!
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E0234E&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Full-Stack;JavaScript+%7C+React+%7C+Python;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
-
-
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
