@@ -1,10 +1,5 @@
 ## Olá!!! Eu sou o Rafael Gaspar, Desenvolvedor Web Full-Stack!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake.svg" />
-  <img alt="Cobrinha comendo o gráfico de contribuições do Rafael" src="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake.svg" />
-</picture>
 
 
  <div style="display: inline_block"><br>
@@ -25,3 +20,10 @@
   <a href="https://www.linkedin.com/in/rafael-gaspar-549470204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+  ##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições do Rafael" src="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake.svg" />
+</picture>
