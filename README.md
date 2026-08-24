@@ -1,9 +1,10 @@
 ## Olá!!! Eu sou o Rafael Gaspar, Desenvolvedor Web Full-Stack!
 
-<div>
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=RafaelGbm&show_icons=true&theme=radical"/>
-<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGbm&show_icons=true&theme=radical&layout=compact"/>
- </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições do Rafael" src="https://raw.githubusercontent.com/RafaelGbm/RafaelGbm/output/github-snake.svg" />
+</picture>
 
 
  <div style="display: inline_block"><br>
